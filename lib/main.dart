@@ -11,6 +11,7 @@ class MyApp extends StatelessWidget {
       title: 'CraveIn',
       debugShowCheckedModeBanner: false,
       theme: AppTheme.getAppTheme(context),
+      routes: getApplicationRoutes(),
     );
   }
 }
