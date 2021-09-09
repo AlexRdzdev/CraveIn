@@ -51,10 +51,10 @@ flutter:
   fonts:
     - family: De Valencia
       fonts:
-        - asset: fonts/De Valencia (beta).otf
+        - asset: fonts\De Valencia\De Valencia (beta).otf
     - family: Source Sans Pro
       fonts:
-        - asset: fonts/SourceSansPro-Regular.otf
+        - asset: fonts\Source Sans Pro\SourceSansPro-Regular.otf
 
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
