@@ -1,0 +1,8 @@
+import 'package:flutter/material.dart';
+
+class AppColors {
+  static final orange = Color.fromARGB(0xFF, 0xE9, 0x8B, 0x24);
+  static final brown = Color.fromARGB(0xFF, 0x43, 0x29, 0x18);
+  static final beige = Color.fromARGB(0xFF, 0xA0, 0x77, 0x46);
+  static final red = Color.fromARGB(0xFF, 0xBE, 0x16, 0x22);
+}
