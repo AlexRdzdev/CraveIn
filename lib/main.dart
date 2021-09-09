@@ -1,3 +1,4 @@
+import 'package:cravein/pages/Start.dart';
 import 'package:cravein/routes/Routes.dart';
 import 'package:cravein/theme/AppTheme.dart';
 import 'package:flutter/material.dart';
@@ -11,6 +12,7 @@ class MyApp extends StatelessWidget {
       title: 'CraveIn',
       debugShowCheckedModeBanner: false,
       theme: AppTheme.getAppTheme(context),
+      initialRoute: Start.routeName,
       routes: getApplicationRoutes(),
     );
   }
